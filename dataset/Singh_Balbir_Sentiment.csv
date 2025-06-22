@@ -1,0 +1,501 @@
+Reviewer Name,Review Date,Rating,Review Text,sentiment,Month
+Owen White,2023-01-01,3,"The product meets basic needs, but that's about it.",neutral,2023-01
+Bob Jenkins,2023-01-02,5,"Very satisfied with this product, excellent quality!",positive,2023-01
+Rachel Harris,2023-01-03,1,This product didn't meet my expectations; I was disappointed.,negative,2023-01
+Olivia Clark,2023-01-04,1,"I had issues with bottles leaking, very dissatisfied.",negative,2023-01
+Violet Thompson,2023-01-05,1,This product didn't meet my expectations; I was disappointed.,negative,2023-01
+Riley Jenkins,2023-01-06,4,"Good value and consistently great taste, very happy with it.",positive,2023-01
+Isla Wilson,2023-01-07,3,"It’s decent, but I wouldn’t specifically seek it out.",neutral,2023-01
+Leo Hughes,2023-01-08,4,"Good value and consistently great taste, very happy with it.",positive,2023-01
+Charlie Smith,2023-01-09,4,"Very satisfied with this product, excellent quality!",positive,2023-01
+Fiona Parker,2023-01-10,2,"Poor quality, I won't be purchasing this again.",negative,2023-01
+Olivia King,2023-01-11,4,The water is fresh and crisp; I absolutely love it!,positive,2023-01
+Mila Smith,2023-01-12,3,"The water is fine, but I’ve had better options.",positive,2023-01
+Jack Ford,2023-01-13,4,"Very satisfied with this product, excellent quality!",positive,2023-01
+Tyler Foster,2023-01-14,5,The water is fresh and crisp; I absolutely love it!,positive,2023-01
+Sophia Rogers,2023-01-15,5,"Very satisfied with this product, excellent quality!",positive,2023-01
+Ashley Young,2023-01-16,5,"Fantastic water, probably the best I’ve tried.",positive,2023-01
+Clara Ross,2023-01-17,1,This product didn't meet my expectations; I was disappointed.,negative,2023-01
+Rachel Johnson,2023-01-18,1,This product didn't meet my expectations; I was disappointed.,negative,2023-01
+Wyatt Green,2023-01-19,3,"It’s an okay product, nothing extraordinary.",positive,2023-01
+Sophia Hughes,2023-01-20,5,"Good value and consistently great taste, very happy with it.",positive,2023-01
+Victor Carter,2023-01-21,2,This product didn't meet my expectations; I was disappointed.,negative,2023-01
+Jasmine Parker,2023-01-22,1,This product didn't meet my expectations; I was disappointed.,negative,2023-01
+Wyatt Knight,2023-01-23,3,"The product meets basic needs, but that's about it.",neutral,2023-01
+George Wilson,2023-01-24,1,This product didn't meet my expectations; I was disappointed.,negative,2023-01
+Yvonne Thompson,2023-01-25,3,"It’s an okay product, nothing extraordinary.",positive,2023-01
+Wendy Phillips,2023-01-26,4,"Fantastic water, probably the best I’ve tried.",positive,2023-01
+Mila Allen,2023-01-27,1,"The quality has dropped, not worth the cost anymore.",negative,2023-01
+Charlie Morgan,2023-01-28,2,Not happy with the taste; it was inconsistent.,negative,2023-01
+David Rogers,2023-01-29,1,"The quality has dropped, not worth the cost anymore.",negative,2023-01
+Hannah Barnes,2023-01-30,5,"Fantastic water, probably the best I’ve tried.",positive,2023-01
+Fiona Collins,2023-01-31,2,This product didn't meet my expectations; I was disappointed.,negative,2023-01
+Samuel Perry,2023-02-01,1,"Poor quality, I won't be purchasing this again.",negative,2023-02
+Noah Hughes,2023-02-02,2,"The quality has dropped, not worth the cost anymore.",negative,2023-02
+Kaitlyn Ford,2023-02-03,2,"There was an unpleasant aftertaste in the water, not impressed.",negative,2023-02
+Tyler Brown,2023-02-04,3,"It’s decent, but I wouldn’t specifically seek it out.",neutral,2023-02
+Charlie Howard,2023-02-05,2,"I had issues with bottles leaking, very dissatisfied.",negative,2023-02
+Olivia Peterson,2023-02-06,2,"There was an unpleasant aftertaste in the water, not impressed.",negative,2023-02
+Samuel Wilson,2023-02-07,2,"There was an unpleasant aftertaste in the water, not impressed.",negative,2023-02
+Olivia Thompson,2023-02-08,5,"Good value and consistently great taste, very happy with it.",positive,2023-02
+Yvonne Carter,2023-02-09,4,The water is fresh and crisp; I absolutely love it!,positive,2023-02
+David Perry,2023-02-10,1,"There was an unpleasant aftertaste in the water, not impressed.",negative,2023-02
+Xander Green,2023-02-11,1,"There was an unpleasant aftertaste in the water, not impressed.",negative,2023-02
+Xander Phillips,2023-02-12,5,The water is fresh and crisp; I absolutely love it!,positive,2023-02
+Nathan Howard,2023-02-13,4,The water is fresh and crisp; I absolutely love it!,positive,2023-02
+Rachel Wood,2023-02-14,3,"Not bad, but could definitely be improved.",positive,2023-02
+Riley Foster,2023-02-15,4,"Good value and consistently great taste, very happy with it.",positive,2023-02
+Edward Baker,2023-02-16,2,This product didn't meet my expectations; I was disappointed.,negative,2023-02
+Owen Green,2023-02-17,3,"It’s decent, but I wouldn’t specifically seek it out.",neutral,2023-02
+Isla Morgan,2023-02-18,4,"Good value and consistently great taste, very happy with it.",positive,2023-02
+Paul Green,2023-02-19,3,"The product meets basic needs, but that's about it.",neutral,2023-02
+David Barnes,2023-02-20,1,"The quality has dropped, not worth the cost anymore.",negative,2023-02
+Rachel Perry,2023-02-21,5,"Thrilled with this purchase, would highly recommend.",positive,2023-02
+Sophia Collins,2023-02-22,3,"The product meets basic needs, but that's about it.",neutral,2023-02
+Olivia Stewart,2023-02-23,1,"The quality has dropped, not worth the cost anymore.",negative,2023-02
+Uma Peterson,2023-02-24,2,"Poor quality, I won't be purchasing this again.",negative,2023-02
+Xavier Martinez,2023-02-25,4,"Good value and consistently great taste, very happy with it.",positive,2023-02
+Olivia Davis,2023-02-26,5,"Good value and consistently great taste, very happy with it.",positive,2023-02
+Uma Turner,2023-02-27,2,"There was an unpleasant aftertaste in the water, not impressed.",negative,2023-02
+Rachel Brown,2023-02-28,2,"There was an unpleasant aftertaste in the water, not impressed.",negative,2023-02
+Nathan Price,2023-03-01,5,"Good value and consistently great taste, very happy with it.",positive,2023-03
+Tyler Foster,2023-03-02,1,This product didn't meet my expectations; I was disappointed.,negative,2023-03
+Nathan Foster,2023-03-03,4,"Thrilled with this purchase, would highly recommend.",positive,2023-03
+Frank Turner,2023-03-04,1,"Poor quality, I won't be purchasing this again.",negative,2023-03
+Piper Thompson,2023-03-05,5,Top-notch quality and great taste; will buy again.,positive,2023-03
+Jasmine Allen,2023-03-06,3,"It’s decent, but I wouldn’t specifically seek it out.",neutral,2023-03
+Ian Harris,2023-03-07,4,"Fantastic water, probably the best I’ve tried.",positive,2023-03
+Violet Collins,2023-03-08,5,Top-notch quality and great taste; will buy again.,positive,2023-03
+Isla Allen,2023-03-09,3,"The water is fine, but I’ve had better options.",positive,2023-03
+Violet Ross,2023-03-10,5,"Fantastic water, probably the best I’ve tried.",positive,2023-03
+Benjamin Ross,2023-03-11,4,"Fantastic water, probably the best I’ve tried.",positive,2023-03
+Zachary Hughes,2023-03-12,5,The water is fresh and crisp; I absolutely love it!,positive,2023-03
+Olivia Clark,2023-03-13,1,"I had issues with bottles leaking, very dissatisfied.",negative,2023-03
+Grace Mitchell,2023-03-14,3,"The product meets basic needs, but that's about it.",neutral,2023-03
+Fiona Brooks,2023-03-15,4,The water is fresh and crisp; I absolutely love it!,positive,2023-03
+Diana White,2023-03-16,1,This product didn't meet my expectations; I was disappointed.,negative,2023-03
+Jasmine Perry,2023-03-17,1,"Poor quality, I won't be purchasing this again.",negative,2023-03
+Karen Stewart,2023-03-18,1,"The quality has dropped, not worth the cost anymore.",negative,2023-03
+Benjamin Baker,2023-03-19,4,"Thrilled with this purchase, would highly recommend.",positive,2023-03
+Edward Barnes,2023-03-20,4,"Very satisfied with this product, excellent quality!",positive,2023-03
+Yvonne Baker,2023-03-21,5,Top-notch quality and great taste; will buy again.,positive,2023-03
+David Walker,2023-03-22,5,"Good value and consistently great taste, very happy with it.",positive,2023-03
+Quincy Collins,2023-03-23,3,"The product meets basic needs, but that's about it.",neutral,2023-03
+Alice Stewart,2023-03-24,2,"The quality has dropped, not worth the cost anymore.",negative,2023-03
+Ursula White,2023-03-25,3,"The water is fine, but I’ve had better options.",positive,2023-03
+Riley Rogers,2023-03-26,1,Not happy with the taste; it was inconsistent.,negative,2023-03
+Wyatt Carter,2023-03-27,5,"Thrilled with this purchase, would highly recommend.",positive,2023-03
+Xavier Foster,2023-03-28,2,"The quality has dropped, not worth the cost anymore.",negative,2023-03
+Victor White,2023-03-29,5,"Good value and consistently great taste, very happy with it.",positive,2023-03
+Samuel Hughes,2023-03-30,5,"Very satisfied with this product, excellent quality!",positive,2023-03
+Karen Thompson,2023-03-31,2,Not happy with the taste; it was inconsistent.,negative,2023-03
+Alice Morgan,2023-04-01,3,"The water is fine, but I’ve had better options.",positive,2023-04
+Ursula Allen,2023-04-02,3,"It’s satisfactory, but nothing to write home about.",positive,2023-04
+Grace Brooks,2023-04-03,5,"Good value and consistently great taste, very happy with it.",positive,2023-04
+Liam King,2023-04-04,4,"Thrilled with this purchase, would highly recommend.",positive,2023-04
+George Perry,2023-04-05,4,"Good value and consistently great taste, very happy with it.",positive,2023-04
+Tina Perry,2023-04-06,2,"I had issues with bottles leaking, very dissatisfied.",negative,2023-04
+Grace Baker,2023-04-07,5,"Good value and consistently great taste, very happy with it.",positive,2023-04
+Megan Lee,2023-04-08,4,The water is fresh and crisp; I absolutely love it!,positive,2023-04
+Xander Brooks,2023-04-09,3,"The product meets basic needs, but that's about it.",neutral,2023-04
+Karen Rogers,2023-04-10,4,"Thrilled with this purchase, would highly recommend.",positive,2023-04
+Xavier Walker,2023-04-11,5,Top-notch quality and great taste; will buy again.,positive,2023-04
+Alice Baker,2023-04-12,1,"The quality has dropped, not worth the cost anymore.",negative,2023-04
+Uma Mitchell,2023-04-13,1,"The quality has dropped, not worth the cost anymore.",negative,2023-04
+Bob White,2023-04-14,2,Not happy with the taste; it was inconsistent.,negative,2023-04
+Xander Evans,2023-04-15,5,"Thrilled with this purchase, would highly recommend.",positive,2023-04
+Paul Martinez,2023-04-16,5,"Good value and consistently great taste, very happy with it.",positive,2023-04
+Paul Price,2023-04-17,3,"It’s decent, but I wouldn’t specifically seek it out.",neutral,2023-04
+Fiona Wilson,2023-04-18,3,"It’s an okay product, nothing extraordinary.",positive,2023-04
+Ursula Mitchell,2023-04-19,4,The water is fresh and crisp; I absolutely love it!,positive,2023-04
+Edward Brooks,2023-04-20,5,"Fantastic water, probably the best I’ve tried.",positive,2023-04
+Isla Peterson,2023-04-21,4,"Fantastic water, probably the best I’ve tried.",positive,2023-04
+Ian Clark,2023-04-22,4,The water is fresh and crisp; I absolutely love it!,positive,2023-04
+Quinn Lewis,2023-04-23,5,"Fantastic water, probably the best I’ve tried.",positive,2023-04
+Jack Green,2023-04-24,5,"Fantastic water, probably the best I’ve tried.",positive,2023-04
+Quincy Walker,2023-04-25,1,"There was an unpleasant aftertaste in the water, not impressed.",negative,2023-04
+Mila Hughes,2023-04-26,5,"Fantastic water, probably the best I’ve tried.",positive,2023-04
+Nathan Rogers,2023-04-27,3,"Not bad, but could definitely be improved.",positive,2023-04
+Wyatt Morgan,2023-04-28,2,Not happy with the taste; it was inconsistent.,negative,2023-04
+Sophia Ford,2023-04-29,5,"Very satisfied with this product, excellent quality!",positive,2023-04
+Tyler Evans,2023-04-30,3,"It’s an okay product, nothing extraordinary.",positive,2023-04
+Zachary Howard,2023-05-01,4,"Thrilled with this purchase, would highly recommend.",positive,2023-05
+Piper Hughes,2023-05-02,1,"I had issues with bottles leaking, very dissatisfied.",negative,2023-05
+Clara Walker,2023-05-03,1,Not happy with the taste; it was inconsistent.,negative,2023-05
+Clara White,2023-05-04,2,"The quality has dropped, not worth the cost anymore.",negative,2023-05
+Paul Young,2023-05-05,5,"Very satisfied with this product, excellent quality!",positive,2023-05
+Edward Knight,2023-05-06,2,"The quality has dropped, not worth the cost anymore.",negative,2023-05
+Bob Ross,2023-05-07,3,"The water is fine, but I’ve had better options.",positive,2023-05
+Jack Young,2023-05-08,1,"I had issues with bottles leaking, very dissatisfied.",negative,2023-05
+Leo Young,2023-05-09,2,"Poor quality, I won't be purchasing this again.",negative,2023-05
+Alice Brown,2023-05-10,1,"Poor quality, I won't be purchasing this again.",negative,2023-05
+Tyler Perry,2023-05-11,3,"The water is fine, but I’ve had better options.",positive,2023-05
+Diana Young,2023-05-12,4,"Thrilled with this purchase, would highly recommend.",positive,2023-05
+Edward Davis,2023-05-13,2,"I had issues with bottles leaking, very dissatisfied.",negative,2023-05
+Victor Brown,2023-05-14,4,"Good value and consistently great taste, very happy with it.",positive,2023-05
+Grace Harris,2023-05-15,4,"Thrilled with this purchase, would highly recommend.",positive,2023-05
+Rachel Howard,2023-05-16,4,The water is fresh and crisp; I absolutely love it!,positive,2023-05
+Frank Parker,2023-05-17,1,This product didn't meet my expectations; I was disappointed.,negative,2023-05
+Isla Clark,2023-05-18,1,"Poor quality, I won't be purchasing this again.",negative,2023-05
+Ursula Price,2023-05-19,3,"The water is fine, but I’ve had better options.",positive,2023-05
+Kaitlyn Lewis,2023-05-20,1,"There was an unpleasant aftertaste in the water, not impressed.",negative,2023-05
+Paul Lewis,2023-05-21,1,"There was an unpleasant aftertaste in the water, not impressed.",negative,2023-05
+Ashley Ford,2023-05-22,1,This product didn't meet my expectations; I was disappointed.,negative,2023-05
+George Thompson,2023-05-23,4,"Thrilled with this purchase, would highly recommend.",positive,2023-05
+Quinn Hughes,2023-05-24,1,Not happy with the taste; it was inconsistent.,negative,2023-05
+Wendy Hughes,2023-05-25,4,"Good value and consistently great taste, very happy with it.",positive,2023-05
+Ashley Thompson,2023-05-26,2,"There was an unpleasant aftertaste in the water, not impressed.",negative,2023-05
+Ursula Martinez,2023-05-27,2,"Poor quality, I won't be purchasing this again.",negative,2023-05
+Riley Foster,2023-05-28,5,"Good value and consistently great taste, very happy with it.",positive,2023-05
+Piper Thompson,2023-05-29,2,Not happy with the taste; it was inconsistent.,negative,2023-05
+Diana Turner,2023-05-30,2,"There was an unpleasant aftertaste in the water, not impressed.",negative,2023-05
+Ursula Knight,2023-05-31,1,Not happy with the taste; it was inconsistent.,negative,2023-05
+George Harris,2023-06-01,5,"Good value and consistently great taste, very happy with it.",positive,2023-06
+Megan Ford,2023-06-02,5,The water is fresh and crisp; I absolutely love it!,positive,2023-06
+Isla Johnson,2023-06-03,4,The water is fresh and crisp; I absolutely love it!,positive,2023-06
+Ian Hughes,2023-06-04,1,Not happy with the taste; it was inconsistent.,negative,2023-06
+Liam Carter,2023-06-05,3,"It’s satisfactory, but nothing to write home about.",positive,2023-06
+David Harris,2023-06-06,3,"It’s satisfactory, but nothing to write home about.",positive,2023-06
+Edward Johnson,2023-06-07,5,The water is fresh and crisp; I absolutely love it!,positive,2023-06
+Jack Thompson,2023-06-08,2,"There was an unpleasant aftertaste in the water, not impressed.",negative,2023-06
+Diana Foster,2023-06-09,2,This product didn't meet my expectations; I was disappointed.,negative,2023-06
+Isla Johnson,2023-06-10,5,"Thrilled with this purchase, would highly recommend.",positive,2023-06
+Fiona Brooks,2023-06-11,3,"The water is fine, but I’ve had better options.",positive,2023-06
+Paul Green,2023-06-12,1,"Poor quality, I won't be purchasing this again.",negative,2023-06
+Ashley Mitchell,2023-06-13,3,"The product meets basic needs, but that's about it.",neutral,2023-06
+Eva Parker,2023-06-14,3,"It’s satisfactory, but nothing to write home about.",positive,2023-06
+Zachary Martinez,2023-06-15,2,This product didn't meet my expectations; I was disappointed.,negative,2023-06
+Karen Barnes,2023-06-16,2,"There was an unpleasant aftertaste in the water, not impressed.",negative,2023-06
+Alice Barnes,2023-06-17,1,"I had issues with bottles leaking, very dissatisfied.",negative,2023-06
+Quincy Thompson,2023-06-18,5,"Very satisfied with this product, excellent quality!",positive,2023-06
+Samuel Hughes,2023-06-19,5,"Very satisfied with this product, excellent quality!",positive,2023-06
+Sophia Morgan,2023-06-20,3,"It’s an okay product, nothing extraordinary.",positive,2023-06
+Jack Howard,2023-06-21,5,"Fantastic water, probably the best I’ve tried.",positive,2023-06
+Tyler Mitchell,2023-06-22,1,"The quality has dropped, not worth the cost anymore.",negative,2023-06
+Jasmine Ford,2023-06-23,4,"Very satisfied with this product, excellent quality!",positive,2023-06
+Samuel Parker,2023-06-24,5,Top-notch quality and great taste; will buy again.,positive,2023-06
+Diana Ross,2023-06-25,4,The water is fresh and crisp; I absolutely love it!,positive,2023-06
+Violet Rogers,2023-06-26,3,"It’s an okay product, nothing extraordinary.",positive,2023-06
+Diana Jenkins,2023-06-27,1,Not happy with the taste; it was inconsistent.,negative,2023-06
+Uma Martinez,2023-06-28,2,"I had issues with bottles leaking, very dissatisfied.",negative,2023-06
+Diana Ross,2023-06-29,1,"There was an unpleasant aftertaste in the water, not impressed.",negative,2023-06
+Eva King,2023-06-30,5,Top-notch quality and great taste; will buy again.,positive,2023-06
+Henry Green,2023-07-01,1,"There was an unpleasant aftertaste in the water, not impressed.",negative,2023-07
+Diana King,2023-07-02,2,"I had issues with bottles leaking, very dissatisfied.",negative,2023-07
+Fiona Adams,2023-07-03,5,"Fantastic water, probably the best I’ve tried.",positive,2023-07
+Edward Baker,2023-07-04,5,"Very satisfied with this product, excellent quality!",positive,2023-07
+Edward Stewart,2023-07-05,4,"Fantastic water, probably the best I’ve tried.",positive,2023-07
+Paul Turner,2023-07-06,3,"It’s decent, but I wouldn’t specifically seek it out.",neutral,2023-07
+Hannah Price,2023-07-07,4,Top-notch quality and great taste; will buy again.,positive,2023-07
+Paul Ross,2023-07-08,5,"Fantastic water, probably the best I’ve tried.",positive,2023-07
+Mila Davis,2023-07-09,1,"Poor quality, I won't be purchasing this again.",negative,2023-07
+Noah Wilson,2023-07-10,5,Top-notch quality and great taste; will buy again.,positive,2023-07
+Ashley Howard,2023-07-11,2,"Poor quality, I won't be purchasing this again.",negative,2023-07
+Leo Price,2023-07-12,2,Not happy with the taste; it was inconsistent.,negative,2023-07
+Henry Foster,2023-07-13,2,"The quality has dropped, not worth the cost anymore.",negative,2023-07
+Quincy Parker,2023-07-14,5,"Good value and consistently great taste, very happy with it.",positive,2023-07
+Quinn Gray,2023-07-15,1,Not happy with the taste; it was inconsistent.,negative,2023-07
+Uma Harris,2023-07-16,3,"It’s decent, but I wouldn’t specifically seek it out.",neutral,2023-07
+Quincy Turner,2023-07-17,5,The water is fresh and crisp; I absolutely love it!,positive,2023-07
+Ian Howard,2023-07-18,1,"I had issues with bottles leaking, very dissatisfied.",negative,2023-07
+Piper Evans,2023-07-19,1,"Poor quality, I won't be purchasing this again.",negative,2023-07
+David Foster,2023-07-20,1,"The quality has dropped, not worth the cost anymore.",negative,2023-07
+Wyatt Brown,2023-07-21,3,"It’s decent, but I wouldn’t specifically seek it out.",neutral,2023-07
+Alice Thompson,2023-07-22,3,"The water is fine, but I’ve had better options.",positive,2023-07
+Noah Price,2023-07-23,1,"Poor quality, I won't be purchasing this again.",negative,2023-07
+George Brown,2023-07-24,2,Not happy with the taste; it was inconsistent.,negative,2023-07
+Isla Parker,2023-07-25,5,"Very satisfied with this product, excellent quality!",positive,2023-07
+Grace Allen,2023-07-26,1,Not happy with the taste; it was inconsistent.,negative,2023-07
+Ian Phillips,2023-07-27,2,"I had issues with bottles leaking, very dissatisfied.",negative,2023-07
+Edward Harris,2023-07-28,2,"The quality has dropped, not worth the cost anymore.",negative,2023-07
+Xander Hill,2023-07-29,2,"The quality has dropped, not worth the cost anymore.",negative,2023-07
+Karen Johnson,2023-07-30,1,"There was an unpleasant aftertaste in the water, not impressed.",negative,2023-07
+Isla Gray,2023-07-31,5,"Fantastic water, probably the best I’ve tried.",positive,2023-07
+Tina Cox,2023-08-01,5,The water is fresh and crisp; I absolutely love it!,positive,2023-08
+Piper Walker,2023-08-02,3,"It’s an okay product, nothing extraordinary.",positive,2023-08
+Alice Howard,2023-08-03,5,"Very satisfied with this product, excellent quality!",positive,2023-08
+Jack Evans,2023-08-04,1,"I had issues with bottles leaking, very dissatisfied.",negative,2023-08
+Quinn Thompson,2023-08-05,5,"Very satisfied with this product, excellent quality!",positive,2023-08
+Ian Allen,2023-08-06,1,Not happy with the taste; it was inconsistent.,negative,2023-08
+Hannah Thompson,2023-08-07,3,"The product meets basic needs, but that's about it.",neutral,2023-08
+Violet Collins,2023-08-08,5,"Very satisfied with this product, excellent quality!",positive,2023-08
+Jasmine Carter,2023-08-09,5,The water is fresh and crisp; I absolutely love it!,positive,2023-08
+Samuel Baker,2023-08-10,4,"Thrilled with this purchase, would highly recommend.",positive,2023-08
+Nathan Gray,2023-08-11,2,Not happy with the taste; it was inconsistent.,negative,2023-08
+Victor Parker,2023-08-12,4,"Good value and consistently great taste, very happy with it.",positive,2023-08
+Riley Perry,2023-08-13,1,"There was an unpleasant aftertaste in the water, not impressed.",negative,2023-08
+Quincy King,2023-08-14,2,"Poor quality, I won't be purchasing this again.",negative,2023-08
+Frank Allen,2023-08-15,5,Top-notch quality and great taste; will buy again.,positive,2023-08
+Diana Wilson,2023-08-16,3,"Not bad, but could definitely be improved.",positive,2023-08
+Owen Hughes,2023-08-17,5,"Very satisfied with this product, excellent quality!",positive,2023-08
+Rachel Davis,2023-08-18,5,"Very satisfied with this product, excellent quality!",positive,2023-08
+Alice Knight,2023-08-19,1,"Poor quality, I won't be purchasing this again.",negative,2023-08
+Xavier Clark,2023-08-20,5,"Very satisfied with this product, excellent quality!",positive,2023-08
+Owen Allen,2023-08-21,4,"Thrilled with this purchase, would highly recommend.",positive,2023-08
+Karen Jenkins,2023-08-22,3,"The product meets basic needs, but that's about it.",neutral,2023-08
+Clara Collins,2023-08-23,1,Not happy with the taste; it was inconsistent.,negative,2023-08
+Tyler Hughes,2023-08-24,1,"I had issues with bottles leaking, very dissatisfied.",negative,2023-08
+Jack Johnson,2023-08-25,2,Not happy with the taste; it was inconsistent.,negative,2023-08
+Hannah Brown,2023-08-26,2,Not happy with the taste; it was inconsistent.,negative,2023-08
+Sophia Lee,2023-08-27,4,"Fantastic water, probably the best I’ve tried.",positive,2023-08
+Isla Davis,2023-08-28,2,"There was an unpleasant aftertaste in the water, not impressed.",negative,2023-08
+Xander Ross,2023-08-29,1,"Poor quality, I won't be purchasing this again.",negative,2023-08
+Jack Lee,2023-08-30,4,The water is fresh and crisp; I absolutely love it!,positive,2023-08
+Benjamin Clark,2023-08-31,2,"The quality has dropped, not worth the cost anymore.",negative,2023-08
+Charlie Evans,2023-09-01,2,"The quality has dropped, not worth the cost anymore.",negative,2023-09
+Xander Davis,2023-09-02,5,"Good value and consistently great taste, very happy with it.",positive,2023-09
+Wendy Parker,2023-09-03,1,"There was an unpleasant aftertaste in the water, not impressed.",negative,2023-09
+Riley Harris,2023-09-04,1,"Poor quality, I won't be purchasing this again.",negative,2023-09
+Quinn Thompson,2023-09-05,2,"There was an unpleasant aftertaste in the water, not impressed.",negative,2023-09
+Wendy Peterson,2023-09-06,1,"There was an unpleasant aftertaste in the water, not impressed.",negative,2023-09
+Jack Moore,2023-09-07,1,Not happy with the taste; it was inconsistent.,negative,2023-09
+Noah Jenkins,2023-09-08,2,"There was an unpleasant aftertaste in the water, not impressed.",negative,2023-09
+Jasmine Harris,2023-09-09,4,Top-notch quality and great taste; will buy again.,positive,2023-09
+Karen Adams,2023-09-10,1,This product didn't meet my expectations; I was disappointed.,negative,2023-09
+Ashley Smith,2023-09-11,1,"I had issues with bottles leaking, very dissatisfied.",negative,2023-09
+Liam Jenkins,2023-09-12,5,"Very satisfied with this product, excellent quality!",positive,2023-09
+Victor Moore,2023-09-13,2,Not happy with the taste; it was inconsistent.,negative,2023-09
+Quinn Jenkins,2023-09-14,5,"Fantastic water, probably the best I’ve tried.",positive,2023-09
+Paul Carter,2023-09-15,2,This product didn't meet my expectations; I was disappointed.,negative,2023-09
+Karen Wood,2023-09-16,3,"It’s an okay product, nothing extraordinary.",positive,2023-09
+George Barnes,2023-09-17,4,The water is fresh and crisp; I absolutely love it!,positive,2023-09
+Charlie Lewis,2023-09-18,3,"It’s an okay product, nothing extraordinary.",positive,2023-09
+Olivia Ford,2023-09-19,4,"Thrilled with this purchase, would highly recommend.",positive,2023-09
+David Phillips,2023-09-20,2,"The quality has dropped, not worth the cost anymore.",negative,2023-09
+Tina Young,2023-09-21,1,"The quality has dropped, not worth the cost anymore.",negative,2023-09
+Olivia Smith,2023-09-22,4,"Fantastic water, probably the best I’ve tried.",positive,2023-09
+Quinn Ford,2023-09-23,1,"I had issues with bottles leaking, very dissatisfied.",negative,2023-09
+Zachary Knight,2023-09-24,1,Not happy with the taste; it was inconsistent.,negative,2023-09
+Rachel Brown,2023-09-25,2,"I had issues with bottles leaking, very dissatisfied.",negative,2023-09
+Xavier Carter,2023-09-26,4,"Good value and consistently great taste, very happy with it.",positive,2023-09
+Wendy Foster,2023-09-27,1,"The quality has dropped, not worth the cost anymore.",negative,2023-09
+Grace Turner,2023-09-28,4,"Thrilled with this purchase, would highly recommend.",positive,2023-09
+Riley Rogers,2023-09-29,1,"The quality has dropped, not worth the cost anymore.",negative,2023-09
+Victor Smith,2023-09-30,2,"There was an unpleasant aftertaste in the water, not impressed.",negative,2023-09
+Hannah Allen,2023-10-01,5,The water is fresh and crisp; I absolutely love it!,positive,2023-10
+Liam Ross,2023-10-02,5,Top-notch quality and great taste; will buy again.,positive,2023-10
+Quincy Davis,2023-10-03,1,"The quality has dropped, not worth the cost anymore.",negative,2023-10
+George Baker,2023-10-04,1,Not happy with the taste; it was inconsistent.,negative,2023-10
+Benjamin Phillips,2023-10-05,4,"Fantastic water, probably the best I’ve tried.",positive,2023-10
+Ursula Foster,2023-10-06,4,"Thrilled with this purchase, would highly recommend.",positive,2023-10
+Benjamin Baker,2023-10-07,4,"Very satisfied with this product, excellent quality!",positive,2023-10
+Grace White,2023-10-08,2,"I had issues with bottles leaking, very dissatisfied.",negative,2023-10
+Yvonne Price,2023-10-09,1,"Poor quality, I won't be purchasing this again.",negative,2023-10
+Megan Allen,2023-10-10,3,"The product meets basic needs, but that's about it.",neutral,2023-10
+Charlie Gray,2023-10-11,1,Not happy with the taste; it was inconsistent.,negative,2023-10
+Benjamin Johnson,2023-10-12,1,"The quality has dropped, not worth the cost anymore.",negative,2023-10
+Henry Rogers,2023-10-13,2,"Poor quality, I won't be purchasing this again.",negative,2023-10
+Riley Morgan,2023-10-14,4,The water is fresh and crisp; I absolutely love it!,positive,2023-10
+Violet Jenkins,2023-10-15,5,"Thrilled with this purchase, would highly recommend.",positive,2023-10
+Quinn Ford,2023-10-16,4,"Very satisfied with this product, excellent quality!",positive,2023-10
+Xander Hughes,2023-10-17,3,"It’s decent, but I wouldn’t specifically seek it out.",neutral,2023-10
+Edward Howard,2023-10-18,5,"Good value and consistently great taste, very happy with it.",positive,2023-10
+Victor Cox,2023-10-19,5,The water is fresh and crisp; I absolutely love it!,positive,2023-10
+Uma Howard,2023-10-20,2,"Poor quality, I won't be purchasing this again.",negative,2023-10
+Hannah Morgan,2023-10-21,4,"Very satisfied with this product, excellent quality!",positive,2023-10
+Tina King,2023-10-22,3,"It’s satisfactory, but nothing to write home about.",positive,2023-10
+Tina Howard,2023-10-23,5,"Very satisfied with this product, excellent quality!",positive,2023-10
+Ashley Foster,2023-10-24,3,"The product meets basic needs, but that's about it.",neutral,2023-10
+Zachary Wood,2023-10-25,3,"It’s an okay product, nothing extraordinary.",positive,2023-10
+Samuel Collins,2023-10-26,2,"The quality has dropped, not worth the cost anymore.",negative,2023-10
+Ian Ford,2023-10-27,3,"It’s an okay product, nothing extraordinary.",positive,2023-10
+Ashley Howard,2023-10-28,3,"The water is fine, but I’ve had better options.",positive,2023-10
+Yvonne Stewart,2023-10-29,5,Top-notch quality and great taste; will buy again.,positive,2023-10
+Violet Adams,2023-10-30,4,"Fantastic water, probably the best I’ve tried.",positive,2023-10
+Noah Price,2023-10-31,4,The water is fresh and crisp; I absolutely love it!,positive,2023-10
+Tina Turner,2023-11-01,4,Top-notch quality and great taste; will buy again.,positive,2023-11
+Jack Johnson,2023-11-02,2,This product didn't meet my expectations; I was disappointed.,negative,2023-11
+Tina Hill,2023-11-03,4,Top-notch quality and great taste; will buy again.,positive,2023-11
+Nathan Hughes,2023-11-04,1,"Poor quality, I won't be purchasing this again.",negative,2023-11
+Leo Baker,2023-11-05,3,"The product meets basic needs, but that's about it.",neutral,2023-11
+Piper Foster,2023-11-06,3,"Not bad, but could definitely be improved.",positive,2023-11
+David Johnson,2023-11-07,5,"Good value and consistently great taste, very happy with it.",positive,2023-11
+Clara Stewart,2023-11-08,4,"Good value and consistently great taste, very happy with it.",positive,2023-11
+Nathan King,2023-11-09,5,"Good value and consistently great taste, very happy with it.",positive,2023-11
+Eva Jenkins,2023-11-10,5,"Very satisfied with this product, excellent quality!",positive,2023-11
+Karen Howard,2023-11-11,3,"It’s satisfactory, but nothing to write home about.",positive,2023-11
+Fiona Hill,2023-11-12,1,"I had issues with bottles leaking, very dissatisfied.",negative,2023-11
+Grace Howard,2023-11-13,4,"Good value and consistently great taste, very happy with it.",positive,2023-11
+Owen Cox,2023-11-14,4,"Very satisfied with this product, excellent quality!",positive,2023-11
+Victor Wilson,2023-11-15,1,"I had issues with bottles leaking, very dissatisfied.",negative,2023-11
+Wyatt Harris,2023-11-16,4,Top-notch quality and great taste; will buy again.,positive,2023-11
+Riley Evans,2023-11-17,2,Not happy with the taste; it was inconsistent.,negative,2023-11
+Olivia Ford,2023-11-18,5,The water is fresh and crisp; I absolutely love it!,positive,2023-11
+Jasmine Smith,2023-11-19,4,"Thrilled with this purchase, would highly recommend.",positive,2023-11
+Charlie Harris,2023-11-20,2,"The quality has dropped, not worth the cost anymore.",negative,2023-11
+Eva Cox,2023-11-21,1,"There was an unpleasant aftertaste in the water, not impressed.",negative,2023-11
+Xavier Brown,2023-11-22,5,"Fantastic water, probably the best I’ve tried.",positive,2023-11
+David Moore,2023-11-23,4,The water is fresh and crisp; I absolutely love it!,positive,2023-11
+Owen Price,2023-11-24,2,"The quality has dropped, not worth the cost anymore.",negative,2023-11
+Megan Gray,2023-11-25,1,"There was an unpleasant aftertaste in the water, not impressed.",negative,2023-11
+Sophia Barnes,2023-11-26,5,"Fantastic water, probably the best I’ve tried.",positive,2023-11
+Frank Turner,2023-11-27,2,"The quality has dropped, not worth the cost anymore.",negative,2023-11
+Paul Lee,2023-11-28,2,"Poor quality, I won't be purchasing this again.",negative,2023-11
+Piper Wood,2023-11-29,5,The water is fresh and crisp; I absolutely love it!,positive,2023-11
+Alice Brooks,2023-11-30,4,The water is fresh and crisp; I absolutely love it!,positive,2023-11
+Xavier Thompson,2023-12-01,3,"It’s decent, but I wouldn’t specifically seek it out.",neutral,2023-12
+Xavier Hughes,2023-12-02,1,"Poor quality, I won't be purchasing this again.",negative,2023-12
+Olivia Adams,2023-12-03,4,"Good value and consistently great taste, very happy with it.",positive,2023-12
+Sophia Walker,2023-12-04,1,"There was an unpleasant aftertaste in the water, not impressed.",negative,2023-12
+David Martinez,2023-12-05,2,Not happy with the taste; it was inconsistent.,negative,2023-12
+Jack Harris,2023-12-06,2,"The quality has dropped, not worth the cost anymore.",negative,2023-12
+Hannah Thompson,2023-12-07,3,"The water is fine, but I’ve had better options.",positive,2023-12
+Ian Thompson,2023-12-08,3,"It’s an okay product, nothing extraordinary.",positive,2023-12
+Quinn Walker,2023-12-09,4,Top-notch quality and great taste; will buy again.,positive,2023-12
+Jack Baker,2023-12-10,5,"Very satisfied with this product, excellent quality!",positive,2023-12
+Uma Brooks,2023-12-11,3,"It’s satisfactory, but nothing to write home about.",positive,2023-12
+Clara Cox,2023-12-12,1,Not happy with the taste; it was inconsistent.,negative,2023-12
+Ursula King,2023-12-13,3,"Not bad, but could definitely be improved.",positive,2023-12
+Benjamin Collins,2023-12-14,3,"The product meets basic needs, but that's about it.",neutral,2023-12
+Clara Green,2023-12-15,1,This product didn't meet my expectations; I was disappointed.,negative,2023-12
+Violet Lewis,2023-12-16,2,"The quality has dropped, not worth the cost anymore.",negative,2023-12
+Clara Allen,2023-12-17,4,The water is fresh and crisp; I absolutely love it!,positive,2023-12
+Wyatt Harris,2023-12-18,1,This product didn't meet my expectations; I was disappointed.,negative,2023-12
+Owen Carter,2023-12-19,4,"Thrilled with this purchase, would highly recommend.",positive,2023-12
+Xavier Peterson,2023-12-20,1,Not happy with the taste; it was inconsistent.,negative,2023-12
+Henry Mitchell,2023-12-21,3,"It’s satisfactory, but nothing to write home about.",positive,2023-12
+Owen Harris,2023-12-22,4,"Very satisfied with this product, excellent quality!",positive,2023-12
+Rachel Johnson,2023-12-23,2,"There was an unpleasant aftertaste in the water, not impressed.",negative,2023-12
+Edward Gray,2023-12-24,2,"The quality has dropped, not worth the cost anymore.",negative,2023-12
+Samuel Harris,2023-12-25,3,"The water is fine, but I’ve had better options.",positive,2023-12
+Rachel Knight,2023-12-26,1,"There was an unpleasant aftertaste in the water, not impressed.",negative,2023-12
+Uma Rogers,2023-12-27,1,"The quality has dropped, not worth the cost anymore.",negative,2023-12
+Fiona Clark,2023-12-28,2,"The quality has dropped, not worth the cost anymore.",negative,2023-12
+Jasmine Young,2023-12-29,1,"Poor quality, I won't be purchasing this again.",negative,2023-12
+Yvonne Wood,2023-12-30,1,Not happy with the taste; it was inconsistent.,negative,2023-12
+Jasmine Gray,2023-12-31,4,"Fantastic water, probably the best I’ve tried.",positive,2023-12
+Nathan Brown,2024-01-01,1,This product didn't meet my expectations; I was disappointed.,negative,2024-01
+Ashley Moore,2024-01-02,1,"The quality has dropped, not worth the cost anymore.",negative,2024-01
+Victor Rogers,2024-01-03,5,The water is fresh and crisp; I absolutely love it!,positive,2024-01
+David Moore,2024-01-04,1,This product didn't meet my expectations; I was disappointed.,negative,2024-01
+Diana Parker,2024-01-05,2,"I had issues with bottles leaking, very dissatisfied.",negative,2024-01
+Ashley Barnes,2024-01-06,5,Top-notch quality and great taste; will buy again.,positive,2024-01
+Xavier Ross,2024-01-07,3,"It’s satisfactory, but nothing to write home about.",positive,2024-01
+Sophia Smith,2024-01-08,4,Top-notch quality and great taste; will buy again.,positive,2024-01
+Wyatt Price,2024-01-09,1,"There was an unpleasant aftertaste in the water, not impressed.",negative,2024-01
+Yvonne Lewis,2024-01-10,1,"The quality has dropped, not worth the cost anymore.",negative,2024-01
+Alice Phillips,2024-01-11,1,"There was an unpleasant aftertaste in the water, not impressed.",negative,2024-01
+Tina Brooks,2024-01-12,1,"I had issues with bottles leaking, very dissatisfied.",negative,2024-01
+Yvonne Moore,2024-01-13,5,"Good value and consistently great taste, very happy with it.",positive,2024-01
+Isla Jenkins,2024-01-14,5,"Thrilled with this purchase, would highly recommend.",positive,2024-01
+Violet Rogers,2024-01-15,5,Top-notch quality and great taste; will buy again.,positive,2024-01
+Mila Young,2024-01-16,2,"There was an unpleasant aftertaste in the water, not impressed.",negative,2024-01
+Frank Young,2024-01-17,1,"I had issues with bottles leaking, very dissatisfied.",negative,2024-01
+Rachel Hughes,2024-01-18,4,Top-notch quality and great taste; will buy again.,positive,2024-01
+Frank Smith,2024-01-19,2,"Poor quality, I won't be purchasing this again.",negative,2024-01
+Yvonne Knight,2024-01-20,4,"Fantastic water, probably the best I’ve tried.",positive,2024-01
+Quinn Stewart,2024-01-21,3,"The water is fine, but I’ve had better options.",positive,2024-01
+Zachary Morgan,2024-01-22,2,Not happy with the taste; it was inconsistent.,negative,2024-01
+Karen Thompson,2024-01-23,2,"Poor quality, I won't be purchasing this again.",negative,2024-01
+Ian Cox,2024-01-24,2,Not happy with the taste; it was inconsistent.,negative,2024-01
+Isla Smith,2024-01-25,3,"It’s an okay product, nothing extraordinary.",positive,2024-01
+Zachary Ross,2024-01-26,4,The water is fresh and crisp; I absolutely love it!,positive,2024-01
+Kaitlyn Howard,2024-01-27,5,Top-notch quality and great taste; will buy again.,positive,2024-01
+Bob Wilson,2024-01-28,1,"I had issues with bottles leaking, very dissatisfied.",negative,2024-01
+Piper Hughes,2024-01-29,3,"It’s decent, but I wouldn’t specifically seek it out.",neutral,2024-01
+Ian Thompson,2024-01-30,1,"There was an unpleasant aftertaste in the water, not impressed.",negative,2024-01
+Liam Martinez,2024-01-31,5,Top-notch quality and great taste; will buy again.,positive,2024-01
+Quincy Barnes,2024-02-01,1,"Poor quality, I won't be purchasing this again.",negative,2024-02
+Uma Parker,2024-02-02,2,"There was an unpleasant aftertaste in the water, not impressed.",negative,2024-02
+David Foster,2024-02-03,1,This product didn't meet my expectations; I was disappointed.,negative,2024-02
+Victor Brooks,2024-02-04,2,This product didn't meet my expectations; I was disappointed.,negative,2024-02
+Yvonne Carter,2024-02-05,1,"I had issues with bottles leaking, very dissatisfied.",negative,2024-02
+Wyatt Moore,2024-02-06,4,"Good value and consistently great taste, very happy with it.",positive,2024-02
+Quincy Wilson,2024-02-07,4,The water is fresh and crisp; I absolutely love it!,positive,2024-02
+Eva Smith,2024-02-08,4,"Fantastic water, probably the best I’ve tried.",positive,2024-02
+Violet Rogers,2024-02-09,5,"Thrilled with this purchase, would highly recommend.",positive,2024-02
+Diana Phillips,2024-02-10,4,The water is fresh and crisp; I absolutely love it!,positive,2024-02
+Olivia Foster,2024-02-11,3,"The product meets basic needs, but that's about it.",neutral,2024-02
+Edward Peterson,2024-02-12,2,"There was an unpleasant aftertaste in the water, not impressed.",negative,2024-02
+Piper Davis,2024-02-13,4,Top-notch quality and great taste; will buy again.,positive,2024-02
+Wyatt Smith,2024-02-14,3,"It’s decent, but I wouldn’t specifically seek it out.",neutral,2024-02
+Paul Ford,2024-02-15,2,"I had issues with bottles leaking, very dissatisfied.",negative,2024-02
+Bob Cox,2024-02-16,4,"Fantastic water, probably the best I’ve tried.",positive,2024-02
+Jasmine Harris,2024-02-17,4,"Very satisfied with this product, excellent quality!",positive,2024-02
+Ian Lewis,2024-02-18,2,Not happy with the taste; it was inconsistent.,negative,2024-02
+Quinn White,2024-02-19,1,This product didn't meet my expectations; I was disappointed.,negative,2024-02
+Kaitlyn Parker,2024-02-20,3,"Not bad, but could definitely be improved.",positive,2024-02
+David Wood,2024-02-21,5,Top-notch quality and great taste; will buy again.,positive,2024-02
+Quincy Peterson,2024-02-22,2,"The quality has dropped, not worth the cost anymore.",negative,2024-02
+Xander Green,2024-02-23,4,"Fantastic water, probably the best I’ve tried.",positive,2024-02
+Mila Baker,2024-02-24,5,The water is fresh and crisp; I absolutely love it!,positive,2024-02
+Violet Gray,2024-02-25,3,"The water is fine, but I’ve had better options.",positive,2024-02
+Hannah Peterson,2024-02-26,3,"Not bad, but could definitely be improved.",positive,2024-02
+Karen Evans,2024-02-27,4,"Good value and consistently great taste, very happy with it.",positive,2024-02
+George Ross,2024-02-28,5,The water is fresh and crisp; I absolutely love it!,positive,2024-02
+Bob Evans,2024-02-29,1,"Poor quality, I won't be purchasing this again.",negative,2024-02
+Kaitlyn Stewart,2024-03-01,5,"Fantastic water, probably the best I’ve tried.",positive,2024-03
+Yvonne Turner,2024-03-02,1,"Poor quality, I won't be purchasing this again.",negative,2024-03
+Tyler Ford,2024-03-03,4,"Very satisfied with this product, excellent quality!",positive,2024-03
+Edward Ross,2024-03-04,3,"It’s decent, but I wouldn’t specifically seek it out.",neutral,2024-03
+Sophia Perry,2024-03-05,1,This product didn't meet my expectations; I was disappointed.,negative,2024-03
+Paul Thompson,2024-03-06,3,"It’s an okay product, nothing extraordinary.",positive,2024-03
+Sophia Peterson,2024-03-07,1,"There was an unpleasant aftertaste in the water, not impressed.",negative,2024-03
+Tina Stewart,2024-03-08,5,The water is fresh and crisp; I absolutely love it!,positive,2024-03
+Mila White,2024-03-09,3,"It’s satisfactory, but nothing to write home about.",positive,2024-03
+Kaitlyn Davis,2024-03-10,5,"Thrilled with this purchase, would highly recommend.",positive,2024-03
+Wendy Rogers,2024-03-11,2,"I had issues with bottles leaking, very dissatisfied.",negative,2024-03
+Benjamin Howard,2024-03-12,3,"Not bad, but could definitely be improved.",positive,2024-03
+Xander Brown,2024-03-13,2,"I had issues with bottles leaking, very dissatisfied.",negative,2024-03
+Grace Foster,2024-03-14,2,"The quality has dropped, not worth the cost anymore.",negative,2024-03
+Victor Johnson,2024-03-15,5,"Very satisfied with this product, excellent quality!",positive,2024-03
+Ashley Mitchell,2024-03-16,3,"The product meets basic needs, but that's about it.",neutral,2024-03
+George Hughes,2024-03-17,1,This product didn't meet my expectations; I was disappointed.,negative,2024-03
+Xander Perry,2024-03-18,4,"Thrilled with this purchase, would highly recommend.",positive,2024-03
+David Gray,2024-03-19,3,"The product meets basic needs, but that's about it.",neutral,2024-03
+Jasmine Hughes,2024-03-20,5,"Very satisfied with this product, excellent quality!",positive,2024-03
+Liam Morgan,2024-03-21,4,Top-notch quality and great taste; will buy again.,positive,2024-03
+Henry Foster,2024-03-22,5,Top-notch quality and great taste; will buy again.,positive,2024-03
+Rachel Cox,2024-03-23,5,"Thrilled with this purchase, would highly recommend.",positive,2024-03
+Isla Peterson,2024-03-24,1,This product didn't meet my expectations; I was disappointed.,negative,2024-03
+Eva Thompson,2024-03-25,3,"It’s decent, but I wouldn’t specifically seek it out.",neutral,2024-03
+Benjamin Morgan,2024-03-26,3,"The water is fine, but I’ve had better options.",positive,2024-03
+Leo Carter,2024-03-27,5,"Thrilled with this purchase, would highly recommend.",positive,2024-03
+Uma Harris,2024-03-28,4,"Thrilled with this purchase, would highly recommend.",positive,2024-03
+Fiona Carter,2024-03-29,1,"Poor quality, I won't be purchasing this again.",negative,2024-03
+Clara Harris,2024-03-30,1,This product didn't meet my expectations; I was disappointed.,negative,2024-03
+Wyatt Thompson,2024-03-31,4,Top-notch quality and great taste; will buy again.,positive,2024-03
+Kaitlyn Cox,2024-04-01,4,"Very satisfied with this product, excellent quality!",positive,2024-04
+Quinn Barnes,2024-04-02,2,"Poor quality, I won't be purchasing this again.",negative,2024-04
+Victor Smith,2024-04-03,3,"It’s satisfactory, but nothing to write home about.",positive,2024-04
+Frank Foster,2024-04-04,2,"The quality has dropped, not worth the cost anymore.",negative,2024-04
+Liam Mitchell,2024-04-05,2,This product didn't meet my expectations; I was disappointed.,negative,2024-04
+Nathan Phillips,2024-04-06,3,"It’s satisfactory, but nothing to write home about.",positive,2024-04
+Quincy Knight,2024-04-07,4,Top-notch quality and great taste; will buy again.,positive,2024-04
+Rachel Baker,2024-04-08,4,The water is fresh and crisp; I absolutely love it!,positive,2024-04
+Sophia Carter,2024-04-09,5,"Fantastic water, probably the best I’ve tried.",positive,2024-04
+Jack Johnson,2024-04-10,5,"Good value and consistently great taste, very happy with it.",positive,2024-04
+Henry Ford,2024-04-11,4,The water is fresh and crisp; I absolutely love it!,positive,2024-04
+Fiona Harris,2024-04-12,3,"The water is fine, but I’ve had better options.",positive,2024-04
+Ursula Moore,2024-04-13,5,The water is fresh and crisp; I absolutely love it!,positive,2024-04
+Frank Collins,2024-04-14,2,"Poor quality, I won't be purchasing this again.",negative,2024-04
+Wyatt Harris,2024-04-15,2,"There was an unpleasant aftertaste in the water, not impressed.",negative,2024-04
+Sophia Lewis,2024-04-16,2,"The quality has dropped, not worth the cost anymore.",negative,2024-04
+Piper Gray,2024-04-17,1,"The quality has dropped, not worth the cost anymore.",negative,2024-04
+Frank Johnson,2024-04-18,4,"Good value and consistently great taste, very happy with it.",positive,2024-04
+Bob Wilson,2024-04-19,3,"It’s satisfactory, but nothing to write home about.",positive,2024-04
+Samuel Young,2024-04-20,5,"Very satisfied with this product, excellent quality!",positive,2024-04
+Zachary Wood,2024-04-21,2,Not happy with the taste; it was inconsistent.,negative,2024-04
+Paul Evans,2024-04-22,5,Top-notch quality and great taste; will buy again.,positive,2024-04
+Quinn Ross,2024-04-23,3,"It’s satisfactory, but nothing to write home about.",positive,2024-04
+Xander Lewis,2024-04-24,3,"It’s satisfactory, but nothing to write home about.",positive,2024-04
+Jack Walker,2024-04-25,3,"It’s an okay product, nothing extraordinary.",positive,2024-04
+Wendy Hughes,2024-04-26,5,"Good value and consistently great taste, very happy with it.",positive,2024-04
+Violet Collins,2024-04-27,3,"The water is fine, but I’ve had better options.",positive,2024-04
+Victor Phillips,2024-04-28,2,"Poor quality, I won't be purchasing this again.",negative,2024-04
+Sophia Thompson,2024-04-29,1,"I had issues with bottles leaking, very dissatisfied.",negative,2024-04
+Rachel Evans,2024-04-30,5,Top-notch quality and great taste; will buy again.,positive,2024-04
+Quincy Young,2024-05-01,2,"The quality has dropped, not worth the cost anymore.",negative,2024-05
+Hannah Morgan,2024-05-02,5,The water is fresh and crisp; I absolutely love it!,positive,2024-05
+Megan Foster,2024-05-03,1,"Poor quality, I won't be purchasing this again.",negative,2024-05
+Hannah Jenkins,2024-05-04,3,"The product meets basic needs, but that's about it.",neutral,2024-05
+Isla Brooks,2024-05-05,5,"Good value and consistently great taste, very happy with it.",positive,2024-05
+Sophia Adams,2024-05-06,3,"The product meets basic needs, but that's about it.",neutral,2024-05
+Megan Parker,2024-05-07,4,The water is fresh and crisp; I absolutely love it!,positive,2024-05
+Violet Lewis,2024-05-08,3,"It’s decent, but I wouldn’t specifically seek it out.",neutral,2024-05
+Rachel Morgan,2024-05-09,3,"The product meets basic needs, but that's about it.",neutral,2024-05
+Leo Brooks,2024-05-10,4,"Thrilled with this purchase, would highly recommend.",positive,2024-05
+Henry Baker,2024-05-11,4,"Very satisfied with this product, excellent quality!",positive,2024-05
+Samuel Thompson,2024-05-12,1,"I had issues with bottles leaking, very dissatisfied.",negative,2024-05
+Megan Hill,2024-05-13,3,"The product meets basic needs, but that's about it.",neutral,2024-05
+Olivia Hughes,2024-05-14,3,"It’s satisfactory, but nothing to write home about.",positive,2024-05
